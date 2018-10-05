@@ -20,7 +20,7 @@ Or invoke as a shell script.
 
 ```
 $ chmod u+x report.py
-$ report.py
+$ ./report.py
 ```
 
 ## Implementation Notes
